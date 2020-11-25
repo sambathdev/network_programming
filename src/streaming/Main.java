@@ -10,7 +10,7 @@ public class Main {
 		try {
 			InputStream inputStream = new FileInputStream("./student.txt");
 			
-			System.out.println("hello");
+			System.out.println("hello from git");
 		}catch(IOException e){
 			System.out.println(e);
 		}
